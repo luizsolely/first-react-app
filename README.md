@@ -1,3 +1,7 @@
+-There's no functionality in the buttons and links. The code was made solely for the purpose of studying technologies.
+-Não há nenhuma funcionalidade nos links e botões. Código feito como forma de treino no uso das tecnologias.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
